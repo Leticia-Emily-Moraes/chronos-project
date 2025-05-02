@@ -1,0 +1,109 @@
+:root {
+  /* Backgrounds */
+  --color-bg-primary: #F7F9FB;
+  --color-bg-secondary: #FFFFFF;
+  --color-bg-tertiary: #EEF2F6;
+
+  /* Textos */
+  --color-text-primary: #2E3440;
+  --color-text-secondary: #5F6C7B;
+  --color-text-muted: #9AA5B1;
+
+  /* Cores principais */
+  --color-primary: #4A90A4;
+  --color-primary-light: #D9ECF2;
+  --color-primary-dark: #3A7484;
+
+  /* Apoio */
+  --color-success: #6FB3A2;
+  --color-success-light: #E3F3EE;
+
+  /* Destaque */
+  --color-accent: #F2C57C;
+
+  /* Estados */
+  --color-border: #E1E6EB;
+  --color-hover: #EAF1F5;
+  --color-focus: #B6D8E2;
+
+  /* Sombras */
+  --shadow-sm: 0 2px 6px rgba(0, 0, 0, 0.04);
+  --shadow-md: 0 6px 16px rgba(0, 0, 0, 0.06);
+
+  /* Transições */
+  --transition-base: all 0.2s ease-in-out;
+
+  /* Info */
+  --alert-info-bg: #E6F1F5;
+  --alert-info-border: #4A90A4;
+  --alert-info-text: #2F5F6E;
+
+  /* Success */
+  --alert-success-bg: #E7F4F0;
+  --alert-success-border: #6FB3A2;
+  --alert-success-text: #2E6B5C;
+
+  /* Warning */
+  --alert-warning-bg: #FFF4E0;
+  --alert-warning-border: #F2C57C;
+  --alert-warning-text: #8A5A12;
+
+  /* Error */
+  --alert-error-bg: #FDECEC;
+  --alert-error-border: #E57373;
+  --alert-error-text: #8B2E2E;
+}
+
+/* [data-theme="dark"] {
+  Backgrounds
+  --color-bg-primary: #12181D;
+  --color-bg-secondary: #1A2228;
+  --color-bg-tertiary: #232C33;
+
+  Textos
+  --color-text-primary: #E6EDF3;
+  --color-text-secondary: #A9B4C0;
+  --color-text-muted: #7E8A97;
+
+  Cores principais
+  --color-primary: #6FBACF;
+  --color-primary-light: #2B4A55;
+  --color-primary-dark: #9ED6E5;
+
+  Apoio
+  --color-success: #7FC7B6;
+  --color-success-light: #1F3A33;
+
+  Destaque
+  --color-accent: #F2C57C;
+
+  Estados
+  --color-border: #2E3A43;
+  --color-hover: #1F2A31;
+  --color-focus: #355B66;
+
+  Sombras
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 8px 24px rgba(0, 0, 0, 0.5);
+
+  Info
+  --alert-info-bg: #1E3A44;
+  --alert-info-border: #6FBACF;
+  --alert-info-text: #D6EEF5;
+
+  Success
+  --alert-success-bg: #1F3A33;
+  --alert-success-border: #7FC7B6;
+  --alert-success-text: #D9F2EB;
+
+  Warning
+  --alert-warning-bg: #3A2E1A;
+  --alert-warning-border: #F2C57C;
+  --alert-warning-text: #FFE3B3;
+
+  Error
+  --alert-error-bg: #3A1F1F;
+  --alert-error-border: #E57373;
+  --alert-error-text: #FFD6D6;
+} */
+
